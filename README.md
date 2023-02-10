@@ -2,11 +2,9 @@
 <h3 align="center">I am a versatile and solution-driven Hands-on Director of software engineering leader with 20+ years of experience in architecture, development, engineering, and implementation projects, specializing in large-scale cloud native microservices based enterprise environments.</h3>
 <img align="right" alt="Coding" width="180" src="https://cdn-images-1.medium.com/fit/t/1600/480/0*Yb_BsikIKFAtuKj9.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rtiwariops&label=Profile%20views&color=0e75b6&style=flat" alt="rtiwariops" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rtiwariops" alt="rtiwariops" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/rtiwariops" target="blank"><img src="https://img.shields.io/twitter/follow/rtiwariops?logo=twitter&style=for-the-badge" alt="rtiwariops" /></a> </p>
+<p align="left"> <a href="https://twitter.com/rtiwariops" target="blank"><img src="https://img.shields.io/twitter/follow/rtiwariops?logo=twitter&style=for-the-badge" alt="rtiwariops" /></a> <p align="left"> <img src="https://komarev.com/ghpvc/?username=rtiwariops&label=Profile%20views&color=0e75b6&style=flat" alt="rtiwariops" /> </p>
 
 - 🌱 I’m currently learning **Everything I can**
 
