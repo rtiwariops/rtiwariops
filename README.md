@@ -14,8 +14,6 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/ravi-t-418a4731/](https://www.linkedin.com/in/ravi-t-418a4731/)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/rtiwariops" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Twitter-logo.svg" alt="Twitter" height="30" width="40" /></a>
