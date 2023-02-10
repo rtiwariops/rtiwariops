@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ravi</h1>
 <h3 align="center">I am a versatile and solution-driven Hands-on Director of software engineering leader with 20+ years of experience in architecture, development, engineering, and implementation projects, specializing in large-scale cloud native microservices based enterprise environments.</h3>
 
+<img align="right" alt="Coding" width="400" src="https://scitechdaily.com/images/AI-Technology-Creation-Concept.gif">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 <p align="left"> <a href="https://twitter.com/rtiwariops" target="blank"><img src="https://img.shields.io/twitter/follow/rtiwariops?logo=twitter&style=for-the-badge" alt="rtiwariops" /></a> <p align="left"> <img src="https://komarev.com/ghpvc/?username=rtiwariops&label=Profile%20views&color=0e75b6&style=flat" alt="rtiwariops" /> </p>
 
@@ -14,9 +14,11 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/ravi-t-418a4731/](https://www.linkedin.com/in/ravi-t-418a4731/)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/rtiwariops" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rtiwariops" height="30" width="40" /></a>
+<a href="https://twitter.com/rtiwariops" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rishavchanda" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ravi.tiwari@zoho.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ravi.tiwari@zoho.com" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/rtiwari@umeey.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="rtiwari@umeey.com" height="30" width="40" /></a>
 </p>
