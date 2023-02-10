@@ -20,7 +20,7 @@
 <p align="left">
 <a href="https://twitter.com/rtiwariops" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Twitter-logo.svg" alt="Twitter" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/ravi-t-418a4731" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/144px-LinkedIn_icon.svg.png" alt="Linkedln" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@rtiwari6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/rtiwari6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
