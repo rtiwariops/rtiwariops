@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ravi</h1>
 <h3 align="center">I am a versatile and solution-driven Hands-on Director of software engineering leader with 20+ years of experience in architecture, development, engineering, and implementation projects, specializing in large-scale cloud native microservices based enterprise environments.</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn-images-1.medium.com/fit/t/1600/480/0*Yb_BsikIKFAtuKj9.gif">
+<img align="right" alt="Coding" width="300" src="https://cdn-images-1.medium.com/fit/t/1600/480/0*Yb_BsikIKFAtuKj9.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rtiwariops&label=Profile%20views&color=0e75b6&style=flat" alt="rtiwariops" /> </p>
 
