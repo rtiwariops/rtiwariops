@@ -18,6 +18,7 @@
 | [**classic-wls-console**](https://github.com/rtiwariops/classic-wls-console) | A classic WebLogic Server 8.1-style administration console for modern WebLogic domains, with live Performance graphs. |
 | [**aireader**](https://github.com/rtiwariops/aireader) | Deep research-paper reading: PDF viewer, auto-summary, Q&A, explain-term and critical analysis. Offline-first with Ollama, with optional Claude or OpenAI. |
 
+📄 White papers: [AgentChain: A Layer 2 Protocol for Decentralized AI-to-AI Coordination on Ethereum](https://github.com/rtiwariops/whitepapers/blob/main/AgentChain_WhitePaper.pdf) · [Mesh AI: Decentralizing Artificial Intelligence](https://github.com/rtiwariops/whitepapers/blob/main/Mesh%20AI.pdf)  
 📝 Articles: [umeey.medium.com](https://umeey.medium.com/)
 
 ## 🛠️ Tech I work with
